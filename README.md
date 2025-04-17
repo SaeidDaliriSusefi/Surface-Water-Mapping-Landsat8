@@ -13,3 +13,13 @@ This repository contains code for processing Landsat 8 imagery to calculate the 
 
 
 
+### Features:
+NDWI Calculation: Computes the NDWI index using Landsat surface reflectance bands (SR_B3 and SR_B5).
+
+Cloud and Shadow Masking: The code includes cloud, cirrus, and shadow masking using the QA_PIXEL band to ensure that the NDWI values are accurate.
+
+K-Means Clustering: After calculating the mean NDWI, K-Means clustering is applied to distinguish between water and non-water areas.
+
+Lake Area Calculation: The code estimates the area of water bodies in square kilometers based on the clustering results.
+
+Visualization: It generates a plot of the mean NDWI and the identified water bodies, along with the calculated water body area.

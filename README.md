@@ -23,3 +23,14 @@ K-Means Clustering: After calculating the mean NDWI, K-Means clustering is appli
 Water Body Area Calculation: The code estimates the area of water bodies in square kilometers based on the clustering results.
 
 Visualization: It generates a plot of the mean NDWI and the identified water bodies, along with the calculated water body area.
+
+
+
+### Requirements:
+Google Earth Engine (GEE): The code uses the Earth Engine Python API to access and process Landsat imagery.
+
+xarray: For handling multidimensional data (e.g., raster datasets).
+
+matplotlib: To plot the results.
+
+scikit-learn: For applying the K-Means clustering algorithm.

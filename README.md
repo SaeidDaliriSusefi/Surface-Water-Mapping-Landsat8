@@ -1,4 +1,4 @@
-# Landsat NDWI Clustering for Water Body Detection
+# Landsat-8 NDWI Clustering for Water Body Detection
 
 This repository contains code for processing Landsat 8 imagery to calculate the Normalized Difference Water Index (NDWI) and apply K-Means clustering to identify water bodies within a defined region of interest (ROI) and desired period of time.
 

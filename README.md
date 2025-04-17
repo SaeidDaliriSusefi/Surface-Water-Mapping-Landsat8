@@ -20,6 +20,6 @@ Cloud and Shadow Masking: The code includes cloud, cirrus, and shadow masking us
 
 K-Means Clustering: After calculating the mean NDWI, K-Means clustering is applied to distinguish between water and non-water areas.
 
-Lake Area Calculation: The code estimates the area of water bodies in square kilometers based on the clustering results.
+Water Body Area Calculation: The code estimates the area of water bodies in square kilometers based on the clustering results.
 
 Visualization: It generates a plot of the mean NDWI and the identified water bodies, along with the calculated water body area.

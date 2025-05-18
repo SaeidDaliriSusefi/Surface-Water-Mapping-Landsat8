@@ -4,7 +4,7 @@ This repository contains code for processing Landsat 8 imagery to calculate the 
 
 
 
-
+## 🛠️ Requirements
 
 
 

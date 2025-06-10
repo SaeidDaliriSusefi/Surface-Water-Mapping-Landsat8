@@ -11,8 +11,9 @@ Python libraries: scikit-learn, pandas, numpy, matplotlib
 
 
 ## 📸 Example Outputs
-![image alt](https://github.com/SaeidDaliriSusefi/Water-Body/blob/483c6aaef4a41999612a054585491e7348f92ffc/Images/Examples.jpg)
+![image alt](https://github.com/SaeidDaliriSusefi/Surface-Water-Mapping-Landsat8/blob/43815c50bd7b784af3c69b58a2e623e1cc49f7ab/Images/download%20(5).png)
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+![image alt](https://github.com/SaeidDaliriSusefi/Surface-Water-Mapping-Landsat8/blob/43815c50bd7b784af3c69b58a2e623e1cc49f7ab/Images/download%20(5).png)
 
 
